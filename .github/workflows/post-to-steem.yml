@@ -7,7 +7,7 @@ on:
 
 jobs:
   post_to_steem:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: 'Processor'
         id: 'processor'
