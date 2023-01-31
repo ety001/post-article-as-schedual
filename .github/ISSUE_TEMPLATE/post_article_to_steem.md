@@ -8,7 +8,7 @@ assignees: ''
 <!-- Please remove this line. Document: https://github.com/steemfans/post-article-as-schedual/blob/master/README.md#issue-template
 ---
 title: Your article title
-tags: tag1,tag2
+tags: hive-193186,cn,wherein,life,cn-life,blog
 reward: 50
 date: 2023-02-01 07:01:10
 ---
